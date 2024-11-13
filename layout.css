@@ -1,0 +1,17 @@
+.custom-menu .ant-menu-item-selected {
+    background-color: #3aa9b0 !important; /* สีที่เลือกเมื่อ active */
+  }
+  .custom-menu .ant-menu-item:hover {
+    background-color: #67c8c3 !important; /* สีเมื่อ hover */
+  }
+
+  :root {
+    --ant-menu-dark-bg: #001529; /* พื้นหลัง */
+    --ant-menu-dark-submenu-bg: #000c17; /* พื้นหลังของเมนูย่อย */
+    --ant-menu-dark-color: #ffffff; /* สีข้อความ */
+    --ant-menu-item-active-bg: hsl(184, 50%, 46%); /* สีของเมนูเมื่อ active */
+  }
+
+.Header{
+    background-color: antiquewhite;
+}
